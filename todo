@@ -1,0 +1,7 @@
+if gen is over threshold read last x entries and if all over threshold then send alert - done but has bugs - getting untrue readings, needs to deal with empty logfile or with less than history of 3
+commit to Github!
+create a new logfile every day
+devize cron script to execute this every y mins durng daylight hours
+setup a docker env to run all of this
+deploy everything to plexbox
+test
